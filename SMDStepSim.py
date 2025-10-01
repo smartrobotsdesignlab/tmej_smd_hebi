@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 from scipy import signal
 
 # System parameters (same as motor demo)
-k = 5.0     # stiffness [Nm/rad]
-c = 0.4     # damping [Nms/rad]
-m = 0.2     # mass [kg*m^2]
+k = 10.0     # stiffness [Nm/rad]
+c = 5.0     # damping [Nms/rad]
+m = 1.0     # mass [kg*m^2]
 
 omega_n = np.sqrt(k / m)             # rad/s
 zeta = c / (2 * np.sqrt(k * m))      # dimensionless
