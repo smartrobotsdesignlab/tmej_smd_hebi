@@ -20,8 +20,8 @@ You will implement and test a **virtual spring–mass–damper (SMD) system** on
 1. Clone this repository and move into the folder:
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/smartrobotsdesignlab/tmej_smd_hebi.git
+   cd tmej_smd_hebi
    ```
 2. Create a virtual environment (recommended):
 ```bash
