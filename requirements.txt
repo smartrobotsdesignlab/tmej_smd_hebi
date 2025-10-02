@@ -1,0 +1,4 @@
+hebi-py
+matplotlib
+scipy
+numpy==1.26.0
