@@ -62,7 +62,4 @@ python SMDStepSim.py
 
 - The motor initializes with its current position as the zero reference.
 - Safety limits (max torque, max displacement) are included to protect hardware.
-
-Always keep one hand near the E-stop or power switch.
-
-🎉 Have fun experimenting with the virtual spring–mass–damper system and comparing theory vs. practice!
+- 🎉 Have fun experimenting with the virtual spring–mass–damper system and comparing theory vs. practice!
