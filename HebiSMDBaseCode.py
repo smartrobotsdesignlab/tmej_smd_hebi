@@ -122,4 +122,5 @@ finally:
     plt.legend()
 
     plt.tight_layout()
+    plt.savefig('smd_response.png')
     plt.show()
