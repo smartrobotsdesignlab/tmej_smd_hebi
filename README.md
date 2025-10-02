@@ -48,6 +48,7 @@ Fix it by forcing NumPy 1.26.0:
 ```bash
 pip install numpy==1.26.0
 ```
+---
 ## ▶️ Usage
 
 - Open one of the example scripts (e.g. SMDStepSim.py).
@@ -56,7 +57,7 @@ pip install numpy==1.26.0
 ```bash
 python SMDStepSim.py
 ```
-
+---
 ## ✅ Notes
 
 - The motor initializes with its current position as the zero reference.
