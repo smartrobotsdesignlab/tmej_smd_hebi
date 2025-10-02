@@ -38,4 +38,5 @@ plt.xlabel("Time [s]")
 plt.ylabel("Displacement [rad]")
 
 plt.tight_layout()
+plt.savefig('test.png')
 plt.show()
